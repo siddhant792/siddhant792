@@ -3,19 +3,15 @@
 <h3 align="center">I'm a passionate software developer; my code has trust issues!🐞💀</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 🔭 I’m currently working on **Pet Reunite: Smart lost pet matchmaking!**
+- 🔭 I’m currently working on **a new application lol.**
 
-- 🌱 I’m currently learning **NodeJS and ExpressJS**
+- 🌱 I’m currently learning **NodeJS and ExpressJS.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://siddhant792.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [Portfolio.](https://siddhant792.github.io/Portfolio-Website/)
 
 - 💬 Ask me about **GCP, Django, Flask and React**
 
 - 📫 How to reach me **siddhantgupta792000@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18VZvCi8B9-Bg0jS14uARliovLBEcbtV2/view?usp=sharing)
-
-- ⚡ Fun fact **I think I'm a bit crazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
